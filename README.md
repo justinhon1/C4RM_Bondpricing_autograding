@@ -1,4 +1,4 @@
-# Autograding Example: Python
+# Assignment to code Bond pricing function
 This example project is written in Python, and tested with pytest.
 
 ### The assignment
