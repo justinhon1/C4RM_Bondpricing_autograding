@@ -1,14 +1,19 @@
 # Assignment to code Bond pricing function
-Below are the requirement babababa..
+The assignment is to code Bond pricing function
 
-### The assignment
-The tests are failing right now because the method isn't outputting the correct string. Fixing this up will make the tests green.
+# Pseudo code
+Function Bond (y, face, couponRate, m, optional ppy=1)
 
-### Setup command
-`sudo -H pip3 install pytest`
+  Your function here
+  
+End Bond Function
 
-### Run command
-`pytest`
 
-### Notes
-- pip's install path is not included in the PATH var by default, so without installing via `sudo -H`, pytest would be unaccessible.
+# Defined variable
+y =
+face =
+couponRate = 
+m
+ppy
+
+
