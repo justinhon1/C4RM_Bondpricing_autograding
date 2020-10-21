@@ -20,12 +20,15 @@ End Bond Function
 # BondTester - this is a self-unit testing for you to test your code
 
         y = 0.03
-        face = 200000
+        face = 2000000
         couponRate = 0.04
         m = 10
         ppy = 2
         
-        Bond(y, face, couponRate, m, ppy)  = 2171686.39
+        Bond(y, face, couponRate, m, ppy) <- this is the Bond price function you need to code on.
+        Bond(3,2000000, 0.04, 10, 2) = 2171686.39
+        
+        You are expected to have the 
         
  # Instruction to submit the assignment
         
