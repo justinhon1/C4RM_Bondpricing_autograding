@@ -31,7 +31,9 @@ End Bond Function
         
         If you are able to see the README.md file, it means you were able to create a Github repo in order to submit your assignment.
         You need to work your coding on "bond_func.py" and make sure it is error free and able to complle.
-        If you want to check if your function is able to compile without any issue, you can try to use "test_bond_func.py" 
+        If you want to check if your function is able to compile without any issue, you can try to use "test_bond_func.py"
+        
+        You can click "Action"
         
  
         
