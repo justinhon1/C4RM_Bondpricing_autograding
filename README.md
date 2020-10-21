@@ -10,10 +10,19 @@ End Bond Function
 
 
 # Defined variable
-        y =
-        face =
-        couponRate = 
-        m = 
-        ppy =
+        y = Yield
+        face = Face amount
+        couponRate = Coupon Rate
+        m = Maturity
+        ppy = Payments per year
 
 
+# BondTester - this is a self-unit testing for you to test your code
+
+        y = 0.03
+        face = 200000
+        couponRate = 0.04
+        m = 10
+        ppy = 2
+        
+        Bond(y, face, couponRate, m, ppy)  = 2171686.39
