@@ -26,3 +26,10 @@ End Bond Function
         ppy = 2
         
         Bond(y, face, couponRate, m, ppy)  = 2171686.39
+        
+ # Instruction
+        
+        If you are able to see the README.md file, it means you were able to create a Github repo in order to submit your assignment.
+        
+ 
+        
