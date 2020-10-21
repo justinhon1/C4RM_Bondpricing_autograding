@@ -33,7 +33,9 @@ End Bond Function
         You need to work your coding on "bond_func.py" and make sure it is error free and able to complle.
         If you want to check if your function is able to compile without any issue, you can try to use "test_bond_func.py"
         
-        You can click "Action"
+        You can click "Actions", and you can use autograding to make sure the unit test works.
+        
+   
         
  
         
