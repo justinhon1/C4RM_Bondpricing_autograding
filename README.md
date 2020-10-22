@@ -8,14 +8,13 @@ def BondPricer(y, face, couponRate, m, optional ppy=1):
         Your code here
   
 
-
 # Variable
+        
         y = Yield
         face = Face amount
         couponRate = Coupon Rate
         m = Maturity
         ppy = Payments per year
-
 
 # Unit tests
 
@@ -27,8 +26,6 @@ def BondPricer(y, face, couponRate, m, optional ppy=1):
         
         BondPricer(y, face, couponRate, m, ppy)
         BondPricer(3, 2000000, 0.04, 10, 2) = 2171686.39
-        
-        You are expected to have the 
         
  # Instructions
         
