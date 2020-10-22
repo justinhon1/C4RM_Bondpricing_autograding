@@ -1,4 +1,4 @@
-# The assignment to code Bond pricing function
+# The assignment is to code Bond pricing function
 
 
 # Pseudo code
